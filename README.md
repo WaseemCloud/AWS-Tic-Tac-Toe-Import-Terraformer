@@ -18,3 +18,8 @@ https://github.com/GoogleCloudPlatform/terraformer?tab=readme-ov-file#installati
 --------------------------------------------------
 # STEP (2):
 --------------------------------------------------
+
+- Go to your AWS Management Console, and manually configure "tic-tac-toe" project resources. Refer to the following repository for deployment guide:
+
+https://github.com/WaseemCloud/Tic-Tac-Toe-AI-Game-on-AWS-Management-Console-
+
