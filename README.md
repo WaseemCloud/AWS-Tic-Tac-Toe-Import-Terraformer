@@ -27,3 +27,16 @@ https://github.com/GoogleCloudPlatform/terraformer?tab=readme-ov-file#installati
 
 https://github.com/WaseemCloud/Tic-Tac-Toe-AI-Game-on-AWS-Management-Console-
 
+- Start importing each resource individually.
+
+# 1) Lambda Function:
+
+       terraformer import aws --resources=lambda
+   
+![Screen Shot 2024-03-19 at 1 47 03 AM](https://github.com/WaseemCloud/Import-AWS/assets/157589909/825835d0-8e9b-4d61-ab02-9e3dc1dcb565)
+
+
+We can see that a sub directory called "lambda" has been created under "generated/aws". This directory contains the statefile, the resource block file and the permession of the Lambda function.
+
+# 2) API Gateway:
+
