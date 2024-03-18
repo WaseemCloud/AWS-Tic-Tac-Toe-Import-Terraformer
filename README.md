@@ -40,3 +40,6 @@ We can see that a sub directory called "lambda" has been created under "generate
 
 # 2) API Gateway:
 
+       terraformer import aws --resources=api_gateway
+
+![Screen Shot 2024-03-19 at 1 53 58 AM](https://github.com/WaseemCloud/Import-AWS/assets/157589909/3f5a2f62-2c42-4855-8a6f-0dcb1223a458)
