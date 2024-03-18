@@ -15,6 +15,10 @@ https://github.com/GoogleCloudPlatform/terraformer?tab=readme-ov-file#installati
       brew install terraformer
 
 
+- To verify if Terraformer is successfully installed, run the following command:
+
+      terraformer version
+  
 --------------------------------------------------
 # STEP (2):
 --------------------------------------------------
