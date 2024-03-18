@@ -14,3 +14,7 @@ https://github.com/GoogleCloudPlatform/terraformer?tab=readme-ov-file#installati
   
       brew install terraformer
 
+
+--------------------------------------------------
+# STEP (2):
+--------------------------------------------------
