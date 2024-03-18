@@ -43,3 +43,10 @@ We can see that a sub directory called "lambda" has been created under "generate
        terraformer import aws --resources=api_gateway
 
 ![Screen Shot 2024-03-19 at 1 53 58 AM](https://github.com/WaseemCloud/Import-AWS/assets/157589909/3f5a2f62-2c42-4855-8a6f-0dcb1223a458)
+
+
+# 3) S3 Bucket:
+
+       terraformer import aws --regions=eu-west-3  --resources=s3
+
+![Screen Shot 2024-03-19 at 1 56 15 AM](https://github.com/WaseemCloud/Import-AWS/assets/157589909/3a4dc59c-8648-485c-9e68-75e5955e88fc)
